@@ -1,4 +1,4 @@
-#🔄 STX → sBTC Swap Contract (Stacks / Clarity)
+# 🔄 STX → sBTC Swap Contract (Stacks / Clarity)
 
 Deployed Contract Address
 ST87DZSKM3M2NR2EB6G25ZP13GW9Q25026D24VEJ.swap-stx
